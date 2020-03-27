@@ -35,11 +35,11 @@ subheader: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm
 meta_image: odin-meta.png
 
 # Social Links
-twitter_username: opencovid19
-facebook_page: 
+twitter_username: data_covid
+facebook_page: Data Against Covid-19
 github_username: opencovid19-fr
 email: 
-linkedin_page:
+linkedin_page: Data Against Covid-19
 instagram_username: 
 
 
@@ -48,7 +48,7 @@ nav_item_one: Github
 nav_item_one_link: https://github.com/opencovid19-fr
 
 nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/opencovid19
+nav_item_two_link: https://twitter.com/data_covid
 
 nav_item_three: #
 nav_item_three_link: #
@@ -65,7 +65,7 @@ help_one_link: https://github.com/opencovid19-fr
 help_two_title: Twitter
 help_two_content: Feel free to tweet us your suggestions.
 help_two_button: Twitter
-help_two_link: https://twitter.com/opencovid19
+help_two_link: https://twitter.com/data_covid
 
 # Build settings
 theme: minima
