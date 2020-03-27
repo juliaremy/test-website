@@ -9,10 +9,8 @@ short-description: Ce que nous faisons et comment aider
 
 -----
 
-Odin is the Norse god of knowledge. He'll help deliver knowledge to your customers with his ravens.
+Qui sommes nous ?
 
-Odin was built out of a frustration with various knowledge base and support software solutions and a desire to build something for the sake of building something.
-
-**More info coming soon**
+Data against Covid c’est une organisation informelle issue de la société civile avec des développeurs, des data scientists, des ingénieurs, des chefs de projets et talents de tous les corps de métiers qui s’organisent ensemble pour fournir des données consolidées sur l’épidémie de Covid 19 et proposer des outils de visualisation. 
 
 
